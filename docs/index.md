@@ -7,4 +7,4 @@ The motivation for this repository is the [Open Source Development course (OSDC)
 
 
 
-![My Image]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fpeakvisor.com%2Fadm%2Fchimborazo.html&psig=AOvVaw2z0XKmYYfD54JdsaWjlf54&ust=1674237207886000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjYg-GZ1PwCFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fplace%2FChimborazo-mountain-Ecuador&psig=AOvVaw2z0XKmYYfD54JdsaWjlf54&ust=1674237207886000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjYg-GZ1PwCFQAAAAAdAAAAABAS))
+![]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fpeakvisor.com%2Fadm%2Fchimborazo.html&psig=AOvVaw2z0XKmYYfD54JdsaWjlf54&ust=1674237207886000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjYg-GZ1PwCFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fplace%2FChimborazo-mountain-Ecuador&psig=AOvVaw2z0XKmYYfD54JdsaWjlf54&ust=1674237207886000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjYg-GZ1PwCFQAAAAAdAAAAABAS))
